@@ -1,4 +1,10 @@
 {
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parse": "^0.1.0",
